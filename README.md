@@ -1,2 +1,2 @@
 # project_euler
-Project Euler Solutions (Question 1-4)
+Project Euler Solutions (Questions 1-4)
